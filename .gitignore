@@ -1,0 +1,11 @@
+.DS_Store
+
+*.pyc
+
+# Lecture slides
+*.pdf
+*.csv
+*.txt
+*.png
+*.zip
+*.py~
